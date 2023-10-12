@@ -1,0 +1,19 @@
+C:\Users\Ces\source\repos\Gestión de Estudiantes\Gestión de Estudiantes\bin\Debug\net6.0-windows\Gestión de Estudiantes.exe
+C:\Users\Ces\source\repos\Gestión de Estudiantes\Gestión de Estudiantes\bin\Debug\net6.0-windows\Gestión de Estudiantes.deps.json
+C:\Users\Ces\source\repos\Gestión de Estudiantes\Gestión de Estudiantes\bin\Debug\net6.0-windows\Gestión de Estudiantes.runtimeconfig.json
+C:\Users\Ces\source\repos\Gestión de Estudiantes\Gestión de Estudiantes\bin\Debug\net6.0-windows\Gestión de Estudiantes.dll
+C:\Users\Ces\source\repos\Gestión de Estudiantes\Gestión de Estudiantes\bin\Debug\net6.0-windows\Gestión de Estudiantes.pdb
+C:\Users\Ces\source\repos\Gestión de Estudiantes\Gestión de Estudiantes\obj\Debug\net6.0-windows\Gestión de Estudiantes.csproj.AssemblyReference.cache
+C:\Users\Ces\source\repos\Gestión de Estudiantes\Gestión de Estudiantes\obj\Debug\net6.0-windows\Gestión_de_Estudiantes.Form1.resources
+C:\Users\Ces\source\repos\Gestión de Estudiantes\Gestión de Estudiantes\obj\Debug\net6.0-windows\Gestión de Estudiantes.csproj.GenerateResource.cache
+C:\Users\Ces\source\repos\Gestión de Estudiantes\Gestión de Estudiantes\obj\Debug\net6.0-windows\Gestión de Estudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ces\source\repos\Gestión de Estudiantes\Gestión de Estudiantes\obj\Debug\net6.0-windows\Gestión de Estudiantes.AssemblyInfoInputs.cache
+C:\Users\Ces\source\repos\Gestión de Estudiantes\Gestión de Estudiantes\obj\Debug\net6.0-windows\Gestión de Estudiantes.AssemblyInfo.cs
+C:\Users\Ces\source\repos\Gestión de Estudiantes\Gestión de Estudiantes\obj\Debug\net6.0-windows\Gestión de Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\Ces\source\repos\Gestión de Estudiantes\Gestión de Estudiantes\obj\Debug\net6.0-windows\Gestión de Estudiantes.dll
+C:\Users\Ces\source\repos\Gestión de Estudiantes\Gestión de Estudiantes\obj\Debug\net6.0-windows\refint\Gestión de Estudiantes.dll
+C:\Users\Ces\source\repos\Gestión de Estudiantes\Gestión de Estudiantes\obj\Debug\net6.0-windows\Gestión de Estudiantes.pdb
+C:\Users\Ces\source\repos\Gestión de Estudiantes\Gestión de Estudiantes\obj\Debug\net6.0-windows\Gestión de Estudiantes.genruntimeconfig.cache
+C:\Users\Ces\source\repos\Gestión de Estudiantes\Gestión de Estudiantes\obj\Debug\net6.0-windows\ref\Gestión de Estudiantes.dll
+C:\Users\Ces\source\repos\Gestión de Estudiantes\Gestión de Estudiantes\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Ces\source\repos\Gestión de Estudiantes\Gestión de Estudiantes\obj\Debug\net6.0-windows\Gestión de Estudiantes.csproj.ResolveComReference.cache

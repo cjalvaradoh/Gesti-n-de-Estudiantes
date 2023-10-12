@@ -1,0 +1,3 @@
+Nombre del Alumno	Apellido del Alumno	Fecha de Nacimiento	Direccion de Residencia	Numero Unico del Alumno	Correo Electronico	Número Telefonico del Alumno	Número de Matricula
+asfdasd	asdfas	asfa	asdfas	asfd	dfas	as	fasf
+asfdasd	asdfas	asfa	asdfas	asfd	dfas	as	fasf
